@@ -1,0 +1,6 @@
+@corewebapiandangular_HostAddress = http://localhost:5107
+
+GET {{corewebapiandangular_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

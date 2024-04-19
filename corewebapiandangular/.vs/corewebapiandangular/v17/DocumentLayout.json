@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|c:\\users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|solutionrelative:corewebapiandangular\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|c:\\users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|solutionrelative:corewebapiandangular\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|c:\\users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\services\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|solutionrelative:corewebapiandangular\\services\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|c:\\users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|solutionrelative:corewebapiandangular\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|c:\\users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\data\\authdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|solutionrelative:corewebapiandangular\\data\\authdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|c:\\users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|solutionrelative:corewebapiandangular\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|c:\\users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\models\\reftokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|solutionrelative:corewebapiandangular\\models\\reftokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|c:\\users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|solutionrelative:corewebapiandangular\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|c:\\users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\data\\citydataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|solutionrelative:corewebapiandangular\\data\\citydataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|c:\\users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\models\\citymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|solutionrelative:corewebapiandangular\\models\\citymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|c:\\users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|solutionrelative:corewebapiandangular\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|c:\\users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|solutionrelative:corewebapiandangular\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|c:\\users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\models\\t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B0545-E446-4CCC-8B3F-0BC803393C7B}|corewebapiandangular\\corewebapiandangular.csproj|solutionrelative:corewebapiandangular\\models\\t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HashService.cs",
+              "DocumentMoniker": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Services\\HashService.cs",
+              "RelativeDocumentMoniker": "corewebapiandangular\\Services\\HashService.cs",
+              "ToolTip": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Services\\HashService.cs",
+              "RelativeToolTip": "corewebapiandangular\\Services\\HashService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:11:47.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "corewebapiandangular\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Controllers\\CityController.cs",
+              "RelativeToolTip": "corewebapiandangular\\Controllers\\CityController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:46:28.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CityDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Data\\CityDataAccess.cs",
+              "RelativeDocumentMoniker": "corewebapiandangular\\Data\\CityDataAccess.cs",
+              "ToolTip": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Data\\CityDataAccess.cs",
+              "RelativeToolTip": "corewebapiandangular\\Data\\CityDataAccess.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:44:15.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\appsettings.json",
+              "RelativeDocumentMoniker": "corewebapiandangular\\appsettings.json",
+              "ToolTip": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\appsettings.json",
+              "RelativeToolTip": "corewebapiandangular\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T11:33:45.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Startup.cs",
+              "RelativeDocumentMoniker": "corewebapiandangular\\Startup.cs",
+              "ToolTip": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Startup.cs",
+              "RelativeToolTip": "corewebapiandangular\\Startup.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:13:42.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Data\\AuthDataAccess.cs",
+              "RelativeDocumentMoniker": "corewebapiandangular\\Data\\AuthDataAccess.cs",
+              "ToolTip": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Data\\AuthDataAccess.cs",
+              "RelativeToolTip": "corewebapiandangular\\Data\\AuthDataAccess.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:24:26.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "t.cs",
+              "DocumentMoniker": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Models\\t.cs",
+              "RelativeDocumentMoniker": "corewebapiandangular\\Models\\t.cs",
+              "ToolTip": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Models\\t.cs",
+              "RelativeToolTip": "corewebapiandangular\\Models\\t.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:49:17.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Models\\Token.cs",
+              "RelativeDocumentMoniker": "corewebapiandangular\\Models\\Token.cs",
+              "ToolTip": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Models\\Token.cs",
+              "RelativeToolTip": "corewebapiandangular\\Models\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:21:00.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RefTokens.cs",
+              "DocumentMoniker": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Models\\RefTokens.cs",
+              "RelativeDocumentMoniker": "corewebapiandangular\\Models\\RefTokens.cs",
+              "ToolTip": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Models\\RefTokens.cs",
+              "RelativeToolTip": "corewebapiandangular\\Models\\RefTokens.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:03:37.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "corewebapiandangular\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Services\\TokenService.cs",
+              "RelativeToolTip": "corewebapiandangular\\Services\\TokenService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T05:10:59.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "corewebapiandangular\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Services\\JwtService.cs",
+              "RelativeToolTip": "corewebapiandangular\\Services\\JwtService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T05:06:18.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "corewebapiandangular\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "corewebapiandangular\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAowGsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T04:59:41.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CityMaster.cs",
+              "DocumentMoniker": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Models\\CityMaster.cs",
+              "RelativeDocumentMoniker": "corewebapiandangular\\Models\\CityMaster.cs",
+              "ToolTip": "C:\\Users\\harsh.desai\\source\\repos\\corewebapiandangular\\corewebapiandangular\\Models\\CityMaster.cs",
+              "RelativeToolTip": "corewebapiandangular\\Models\\CityMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:25:58.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

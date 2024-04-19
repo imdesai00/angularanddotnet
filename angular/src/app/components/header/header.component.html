@@ -1,0 +1,28 @@
+<header class="bg-gray-800 py-4">
+    <nav class="container mx-auto">
+      <ul class="flex justify-end">
+        <li>
+          <a routerLink="/" class="text-white m-6 p-2 font-bold">Home</a>
+        </li>
+        <li >
+          <a *ngIf="isLoggedIn()" routerLink="/city" class="text-white  m-6 p-2 font-bold">City</a>
+        </li>
+        <!-- <li>
+          <a routerLink="/grade" class="text-white  m-6 p-2 font-bold">Grade</a>
+        </li>
+        <li>
+          <a routerLink="/test" class="text-white  m-6 p-2 font-bold">test</a>
+        </li> -->
+        <li>
+          <a *ngIf="!isLoggedIn()" routerLink="/login" class="text-white  m-6 p-2 font-bold">Login</a>
+        </li>
+        <li *ngIf="!isLoggedIn()">
+          <a routerLink="/register" class="text-white  m-6 p-2 font-bold">register</a>
+        </li>
+        <li *ngIf="isLoggedIn()">
+          <a routerLink="/" (click)="logout()" class="text-white  m-6 p-2 font-bold">Logout</a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+  
